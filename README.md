@@ -1,6 +1,7 @@
 <!-- HEADER BANNER -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:6e40c9,100:00d4ff&height=210&section=header&text=Minh%20Hi%E1%BB%83n&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Distributed%20Systems%20Engineer%20%E2%80%A2%20HCMUS&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4ff&height=210&section=header&text=Minh%20Hien&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Distributed%20Systems%20Engineer%20-%20HCMUS&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
   <!-- TYPING ANIMATION -->
   <a href="https://github.com/Hiendro11">
