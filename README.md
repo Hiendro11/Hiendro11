@@ -1,5 +1,4 @@
 <!-- HEADER BANNER -->
-<!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:00d4ff&height=210&section=header&text=Minh%20Hien&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Distributed%20Systems%20Engineer%20-%20HCMUS&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
@@ -11,13 +10,15 @@
   <br/>
 
   <!-- CONTACT BADGES -->
-  <a href="mailto:txm.hien1102@gmail.com">
+  <a href="mailto:txm.hien1102@gmail.com" title="Send me an email">
     <img src="https://img.shields.io/badge/Email-txm.hien1102@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hienkul/">
+  <a href="https://www.linkedin.com/in/hienkul/" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-hienkul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Concurrency%20%26%20Reliability-8A2BE2?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <a href="#-engineered-systems--ls--la-projects" title="Jump to my backend projects">
+    <img src="https://img.shields.io/badge/Focus-Concurrency%20%26%20Reliability-8A2BE2?style=for-the-badge&logo=prometheus&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -44,20 +45,54 @@ engineering_principles:
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <!-- Main Visual Stack -->
-  <img src="https://skillicons.dev/icons?i=java,go,kotlin,ts,py,spring,nestjs,django,express&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma,hibernate,docker,git,maven&perline=9" />
+  <!-- Languages & Backend Frameworks (Hover for details, click for docs) -->
+  <a href="https://www.java.com/" title="Java — Core Backend & High-Contention Systems"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" /></a>
+  <a href="https://go.dev/" title="Go (Golang) — Concurrent Microservices & Telemetry"><img src="https://skillicons.dev/icons?i=go" width="48" alt="Go" /></a>
+  <a href="https://kotlinlang.org/" title="Kotlin — Native Android Development"><img src="https://skillicons.dev/icons?i=kotlin" width="48" alt="Kotlin" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript — End-to-End Type-Safe Backend & Frontend"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" /></a>
+  <a href="https://www.python.org/" title="Python — Backend Services & Async Workers"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python" /></a>
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot — Enterprise Java Backend"><img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot" /></a>
+  <a href="https://nestjs.com/" title="NestJS — Modular Node.js/TypeScript Architecture"><img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS" /></a>
+  <a href="https://www.djangoproject.com/" title="Django — Python Web Framework & Channels"><img src="https://skillicons.dev/icons?i=django" width="48" alt="Django" /></a>
+  <a href="https://expressjs.com/" title="Express.js — Lightweight Node.js REST APIs"><img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js" /></a>
+
+  <br/>
+
+  <!-- Databases, ORMs & DevOps -->
+  <a href="https://www.mysql.com/" title="MySQL 8.4 — Transactional RDBMS & Atomic SQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL — Advanced Relational Database"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB — NoSQL Document Store"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB" /></a>
+  <a href="https://redis.io/" title="Redis — In-Memory Caching, Pub/Sub & Broker"><img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis" /></a>
+  <a href="https://www.prisma.io/" title="Prisma — Next-Gen TypeScript ORM"><img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma" /></a>
+  <a href="https://hibernate.org/" title="Hibernate / JPA — Java ORM & Optimistic Locking"><img src="https://skillicons.dev/icons?i=hibernate" width="48" alt="Hibernate" /></a>
+  <a href="https://www.docker.com/" title="Docker — Containerization & Compose Environments"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" /></a>
+  <a href="https://git-scm.com/" title="Git — Version Control & CI/CD Workflows"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /></a>
+  <a href="https://maven.apache.org/" title="Apache Maven — Java Build & Dependency Management"><img src="https://skillicons.dev/icons?i=maven" width="48" alt="Maven" /></a>
 
   <br/><br/>
 
   <!-- Specialized Production Tools & Patterns -->
-  <img src="https://img.shields.io/badge/Temporal_Workflows-141414?style=for-the-badge&logo=temporal&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/WebSocket_&_Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery_Workers-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/ZaloPay_Production_SDK-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twilio_SMS-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <a href="https://temporal.io/" title="Temporal.io — Durable Workflow Orchestration that survives crashes">
+    <img src="https://img.shields.io/badge/Temporal_Workflows-141414?style=for-the-badge&logo=temporal&logoColor=00D4FF" alt="Temporal Workflows" />
+  </a>
+  <a href="https://socket.io/" title="WebSocket & Socket.io — Real-time Bi-directional Streaming">
+    <img src="https://img.shields.io/badge/WebSocket_&_Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket & Socket.io" />
+  </a>
+  <a href="https://docs.celeryq.dev/" title="Celery — Distributed Background Task Queue">
+    <img src="https://img.shields.io/badge/Celery_Workers-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery Workers" />
+  </a>
+  <a href="https://docs.zalopay.vn/" title="ZaloPay Production SDK — Real VND Payment Integration">
+    <img src="https://img.shields.io/badge/ZaloPay_Production_SDK-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="ZaloPay SDK" />
+  </a>
+  <a href="https://www.twilio.com/" title="Twilio SMS — Critical Alert Escalation">
+    <img src="https://img.shields.io/badge/Twilio_SMS-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio SMS" />
+  </a>
+  <a href="https://firebase.google.com/docs/cloud-messaging" title="Firebase Cloud Messaging — Real-time Push Notifications">
+    <img src="https://img.shields.io/badge/Firebase_FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase FCM" />
+  </a>
+  <a href="https://developer.android.com/jetpack/compose" title="Jetpack Compose — Modern Native Android UI">
+    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  </a>
 </div>
 
 <br/>
