@@ -9,16 +9,8 @@
 
   <br/>
 
-  <!-- CONTACT BADGES -->
-  <a href="mailto:txm.hien1102@gmail.com" title="Send me an email">
-    <img src="https://img.shields.io/badge/Email-txm.hien1102@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hienkul/" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-hienkul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#-engineered-systems--ls--la-projects" title="Jump to my backend projects">
-    <img src="https://img.shields.io/badge/Focus-Concurrency%20%26%20Reliability-8A2BE2?style=for-the-badge&logo=prometheus&logoColor=white" />
-  </a>
+<!-- CONTACT BADGES -->
+  <a href="mailto:txm.hien1102@gmail.com" title="Send me an email"><img src="https://img.shields.io/badge/txm.hien1102@gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=00D4FF" alt="Email" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hienkul/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="#-engineered-systems--ls--la-projects" title="Jump to my backend projects"><img src="https://img.shields.io/badge/Concurrency_%26_Reliability-6E40C9?style=for-the-badge&logo=prometheus&logoColor=white" alt="Focus" /></a>
 </div>
 
 <br/>
